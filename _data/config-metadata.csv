@@ -1,6 +1,10 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
+title_of_piece,Title of Piece,
+title_of_production,Title of Production,
+playwrights,Playwright(s),
+directors,Directors(s),
+contributors,Contributor(s),
+theater,Theater,
 date,Date Created,
 description,Description,
 subject,Subjects,true
